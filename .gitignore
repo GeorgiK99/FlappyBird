@@ -2,7 +2,6 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-git config --global core.autocrlf true
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
